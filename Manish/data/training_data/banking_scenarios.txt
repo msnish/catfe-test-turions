@@ -1,0 +1,13 @@
+A user initiates a Wire Transfer of $10,000 from USD to EUR. The transaction exceeds the daily limit of $5,000. The system rejects the transaction with a failure message. The expected result is Failure due to the amount exceeding the limit.
+
+A transaction of $50,000 is sent to a suspicious destination account flagged in the fraud detection system. The fraud detection rules indicate a maximum amount of $20,000 per transaction. The transaction is flagged for review due to both the high amount and the suspicious destination. The expected result is Flag.
+
+A customer attempts to log in with 6 login attempts, exceeding the maximum allowed attempts of 5. The system locks the account and displays a failure message. The expected result is Failure due to too many login attempts.
+
+A user performs an ACH transaction of $500 from USD to USD. The transaction is within the limit of $1,000. The system processes the transaction successfully. The expected result is Success with no risks identified.
+
+A Cross-Border transaction of $15,000 from USD to JPY is initiated. The transaction is placed on hold for manual review due to the international nature of the transfer. The expected result is Hold.
+
+A transaction of $8,000 to a destination account not on the suspicious list is processed. The fraud detection rules allow up to $10,000 per transaction. The transaction passes fraud detection with no risks identified. The expected result is Pass.
+
+A user initiates a scenario where a wire transfer of $10000 from USD to EUR is tested. The expected outcome is Failure. Potential risks include Amount exceeds daily limit of $5000.
