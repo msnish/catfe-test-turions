@@ -1,0 +1,7 @@
+Transaction ID	Transaction Type	Source Account	Source Currency	Destination Account	Destination Currency	Amount	Expected Result	Notes
+TX001	Wire Transfer	ACC1001	USD	ACC1002	EUR	2000	Success	"Within limits, sufficient balance, GenAI suggested a typical cross-border amount."
+TX002	ACH	ACC1001	USD	ACC1004	USD	50	Success	"Within limits, GenAI chose a small amount for ACH testing."
+TX003	ATM Withdrawal	ACC1003	JPY	-	JPY	400	Success	"Within limits, GenAI selected a common ATM withdrawal amount. Insufficient balance."
+TX004	Cross-Border	ACC1004	USD	ACC1002	EUR	1000	Failure	GenAI suggested testing a scenario with a low-balance account. Exceeds limits.
+TX005	Wire Transfer	ACC1001	USD	ACC1003	JPY	60000	Failure	GenAI suggested testing a large amount to trigger limit checks.
+TX006	Wire Transfer	ACC1001	USD	ACC1003	JPY	2000	Hold	"Unusually large amount to a new beneficiary (hypothetical), GenAI suggested testing a hold scenario."
