@@ -1,0 +1,25 @@
+{
+  "transaction_limits": {
+    "Wire Transfer": {
+      "USD": 2400.0
+    },
+    "ACH": {
+      "USD": 100.0
+    },
+    "ATM Withdrawal": {
+      "JPY": 500.0
+    }
+  },
+  "fraud_detection": {
+    "suspicious_destinations": [
+      "ACC1002",
+      "ACC1003"
+    ],
+    "max_amount_per_transaction": 3000.0,
+    "max_transactions_per_day": 6
+  },
+  "customer_interaction": {
+    "max_login_attempts": 3,
+    "session_timeout_minutes": 30
+  }
+}
