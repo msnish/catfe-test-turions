@@ -1,0 +1,21 @@
+2025-03-22 08:05:04,757 - INFO - Attempting to load transactions from D:/Manish\data\transactions.csv
+2025-03-22 08:05:04,759 - ERROR - File not found: D:/Manish\data\transactions.csv
+2025-03-22 08:05:04,759 - ERROR - Script failed: [Errno 2] No such file or directory: 'D:/Manish\\data\\transactions.csv'
+2025-03-22 08:05:55,977 - INFO - Attempting to load transactions from D:/Manish\data\transactions.csv
+2025-03-22 08:05:55,978 - ERROR - File not found: D:/Manish\data\transactions.csv
+2025-03-22 08:05:55,978 - ERROR - Script failed: [Errno 2] No such file or directory: 'D:/Manish\\data\\transactions.csv'
+2025-03-22 08:06:13,334 - INFO - Attempting to load transactions from D:\Manish\data\transactions.csv
+2025-03-22 08:06:13,335 - ERROR - File not found: D:\Manish\data\transactions.csv
+2025-03-22 08:06:13,361 - ERROR - Script failed: [Errno 2] No such file or directory: 'D:\\Manish\\data\\transactions.csv'
+2025-03-22 08:07:42,209 - INFO - Attempting to load transactions from D:\Manish\data\transactions.csv
+2025-03-22 08:07:42,210 - ERROR - File not found: D:\Manish\data\transactions.csv
+2025-03-22 08:07:42,210 - ERROR - Script failed: [Errno 2] No such file or directory: 'D:\\Manish\\data\\transactions.csv'
+2025-03-22 08:11:12,603 - INFO - Attempting to load transactions from D:\Manish\data\transactions.csv
+2025-03-22 08:11:12,604 - ERROR - File not found: D:\Manish\data\transactions.csv
+2025-03-22 08:11:12,604 - ERROR - Script failed: [Errno 2] No such file or directory: 'D:\\Manish\\data\\transactions.csv'
+2025-03-22 08:11:37,356 - INFO - Attempting to load transactions from D:\Manish\data\transactions.csv
+2025-03-22 08:11:37,424 - INFO - Loaded 6 transactions from D:\Manish\data\transactions.csv
+2025-03-22 08:11:37,424 - INFO - Analyzing transactions to generate system configuration
+2025-03-22 08:11:37,448 - INFO - Completed analysis of transactions
+2025-03-22 08:11:37,448 - INFO - Writing configuration to D:\Manish\data\system_config.json
+2025-03-22 08:11:37,449 - INFO - Successfully wrote configuration to D:\Manish\data\system_config.json
