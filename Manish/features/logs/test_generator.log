@@ -1,0 +1,74 @@
+2025-03-22 09:14:53,591 - FinancialTestGenerator - INFO - Starting Financial Test Generator...
+2025-03-22 09:14:53,596 - FinancialTestGenerator - INFO - Generative AI initialized (mock).
+2025-03-22 09:14:53,596 - FinancialTestGenerator - INFO - Generative AI initialized (mock).
+2025-03-22 09:14:53,596 - FinancialTestGenerator - INFO - Generative AI initialized (mock).
+2025-03-22 09:14:53,597 - FinancialTestGenerator - INFO - TestCaseGenerator initialized.
+2025-03-22 09:14:53,597 - FinancialTestGenerator - INFO - TestCaseGenerator initialized.
+2025-03-22 09:14:53,597 - FinancialTestGenerator - INFO - TestCaseGenerator initialized.
+2025-03-22 09:14:53,598 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 2000.
+2025-03-22 09:14:53,598 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 2000.
+2025-03-22 09:14:53,598 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 2000.
+2025-03-22 09:14:53,625 - FinancialTestGenerator - INFO - Generated test scenario for ACH with amount 50.
+2025-03-22 09:14:53,625 - FinancialTestGenerator - INFO - Generated test scenario for ACH with amount 50.
+2025-03-22 09:14:53,625 - FinancialTestGenerator - INFO - Generated test scenario for ACH with amount 50.
+2025-03-22 09:14:53,626 - FinancialTestGenerator - INFO - Generated test scenario for ATM Withdrawal with amount 400.
+2025-03-22 09:14:53,626 - FinancialTestGenerator - INFO - Generated test scenario for ATM Withdrawal with amount 400.
+2025-03-22 09:14:53,626 - FinancialTestGenerator - INFO - Generated test scenario for ATM Withdrawal with amount 400.
+2025-03-22 09:14:53,627 - FinancialTestGenerator - INFO - Generated test scenario for Cross-Border with amount 1000.
+2025-03-22 09:14:53,627 - FinancialTestGenerator - INFO - Generated test scenario for Cross-Border with amount 1000.
+2025-03-22 09:14:53,627 - FinancialTestGenerator - INFO - Generated test scenario for Cross-Border with amount 1000.
+2025-03-22 09:14:53,628 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 60000.
+2025-03-22 09:14:53,628 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 60000.
+2025-03-22 09:14:53,628 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 60000.
+2025-03-22 09:14:53,629 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 2000.
+2025-03-22 09:14:53,629 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 2000.
+2025-03-22 09:14:53,629 - FinancialTestGenerator - INFO - Generated test scenario for Wire Transfer with amount 2000.
+2025-03-22 09:14:53,631 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 2000.
+2025-03-22 09:14:53,631 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 2000.
+2025-03-22 09:14:53,631 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 2000.
+2025-03-22 09:14:53,632 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 50.
+2025-03-22 09:14:53,632 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 50.
+2025-03-22 09:14:53,632 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 50.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 400.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 400.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 400.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 1000.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 1000.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 1000.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 60000.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 60000.
+2025-03-22 09:14:53,633 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 60000.
+2025-03-22 09:14:53,634 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 2000.
+2025-03-22 09:14:53,634 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 2000.
+2025-03-22 09:14:53,634 - FinancialTestGenerator - INFO - Generated fraud scenario for transaction with amount 2000.
+2025-03-22 09:14:53,634 - FinancialTestGenerator - INFO - Generated customer interaction scenario with 2 login attempts.
+2025-03-22 09:14:53,634 - FinancialTestGenerator - INFO - Generated customer interaction scenario with 2 login attempts.
+2025-03-22 09:14:53,634 - FinancialTestGenerator - INFO - Generated customer interaction scenario with 2 login attempts.
+2025-03-22 09:14:53,635 - FinancialTestGenerator - INFO - Generated customer interaction scenario with 4 login attempts.
+2025-03-22 09:14:53,635 - FinancialTestGenerator - INFO - Generated customer interaction scenario with 4 login attempts.
+2025-03-22 09:14:53,635 - FinancialTestGenerator - INFO - Generated customer interaction scenario with 4 login attempts.
+2025-03-22 09:14:53,635 - FinancialTestGenerator - INFO - Generated test cases: 6 transaction, 6 fraud, 2 customer interaction.
+2025-03-22 09:14:53,635 - FinancialTestGenerator - INFO - Generated test cases: 6 transaction, 6 fraud, 2 customer interaction.
+2025-03-22 09:14:53,635 - FinancialTestGenerator - INFO - Generated test cases: 6 transaction, 6 fraud, 2 customer interaction.
+2025-03-22 09:14:53,637 - FinancialTestGenerator - INFO - Generated transaction_validation.feature
+2025-03-22 09:14:53,637 - FinancialTestGenerator - INFO - Generated transaction_validation.feature
+2025-03-22 09:14:53,637 - FinancialTestGenerator - INFO - Generated transaction_validation.feature
+2025-03-22 09:14:53,637 - FinancialTestGenerator - INFO - Generated transaction_validation.feature
+2025-03-22 09:14:53,638 - FinancialTestGenerator - INFO - Generated fraud_detection.feature
+2025-03-22 09:14:53,638 - FinancialTestGenerator - INFO - Generated fraud_detection.feature
+2025-03-22 09:14:53,638 - FinancialTestGenerator - INFO - Generated fraud_detection.feature
+2025-03-22 09:14:53,638 - FinancialTestGenerator - INFO - Generated fraud_detection.feature
+2025-03-22 09:14:53,639 - FinancialTestGenerator - INFO - Generated customer_interaction.feature
+2025-03-22 09:14:53,639 - FinancialTestGenerator - INFO - Generated customer_interaction.feature
+2025-03-22 09:14:53,639 - FinancialTestGenerator - INFO - Generated customer_interaction.feature
+2025-03-22 09:14:53,639 - FinancialTestGenerator - INFO - Generated customer_interaction.feature
+2025-03-22 09:14:53,642 - FinancialTestGenerator - INFO - Started monitoring system configuration changes.
+2025-03-22 09:14:53,642 - FinancialTestGenerator - INFO - Started monitoring system configuration changes.
+2025-03-22 09:14:53,642 - FinancialTestGenerator - INFO - Started monitoring system configuration changes.
+2025-03-22 09:14:53,642 - FinancialTestGenerator - INFO - Started monitoring system configuration changes.
+2025-03-22 09:14:53,642 - FinancialTestGenerator - INFO - Started monitoring system configuration changes.
+2025-03-22 09:21:47,480 - FinancialTestGenerator - INFO - Stopped monitoring system configuration changes.
+2025-03-22 09:21:47,480 - FinancialTestGenerator - INFO - Stopped monitoring system configuration changes.
+2025-03-22 09:21:47,480 - FinancialTestGenerator - INFO - Stopped monitoring system configuration changes.
+2025-03-22 09:21:47,480 - FinancialTestGenerator - INFO - Stopped monitoring system configuration changes.
+2025-03-22 09:21:47,480 - FinancialTestGenerator - INFO - Stopped monitoring system configuration changes.
