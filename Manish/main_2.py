@@ -10,7 +10,7 @@ def main():
     logger = setup_logger()
     logger.info("Starting Banking Test Generator...")
     
-    # Initialize the test case generator
+    # Initialize the test case generator. add more testings
     generator = TestCaseGenerator(r"D:\Manish\data\transactions.csv", r"D:\Manish\data\system_config.json")
     
     # Generate initial test cases
